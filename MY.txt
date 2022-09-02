@@ -1,0 +1,5 @@
+This is my first individual file upload in git
+
+
+
+love
